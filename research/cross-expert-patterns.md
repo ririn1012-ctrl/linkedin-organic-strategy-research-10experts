@@ -1,6 +1,6 @@
 # Cross-Expert Pattern Analysis
 
-> What do the 10 experts have in common — and where do they diverge?  
+> What do the 10 experts have in common and where do they diverge?  
 > This analysis synthesizes observations from all 10 collected post sets.
 
 ---
@@ -35,7 +35,7 @@ The final line of nearly every high-performing post is a standalone, shareable i
 **Implication:** The closing line is as important as the hook. It's what gets screenshotted.
 
 ### 4. They Never Promote in the Same Post They Teach
-All 10 of these experts separate educational content from promotional content. When they teach, they teach fully. CTAs (to newsletters, reports, events) appear as addendums or in comments — never woven into the teaching content.
+All 10 of these experts separate educational content from promotional content. When they teach, they teach fully. CTAs (to newsletters, reports, events) appear as addendums or in comments - never woven into the teaching content.
 
 **Implication:** Trust-building content should not be dual-purpose. "Give first, offer second" is the universal rule.
 
@@ -53,7 +53,7 @@ None of these posts read as "here is why our product is great." They all start f
 
 | Expert | Primary Format | Why It Works for Them |
 |--------|---------------|----------------------|
-| Dave Gerhardt | Short text | Conversational, high empathy — format matches voice |
+| Dave Gerhardt | Short text | Conversational, high empathy - format matches voice |
 | Kyle Poyar | Carousels (PDF) | Data-dense; carousels allow space for numbers and charts |
 | April Dunford | Short text + frameworks | Precise language doesn't need visual enhancement |
 | Justin Welsh | Short text + carousels | Engineered for algorithm; tests both formats continuously |
@@ -144,7 +144,7 @@ Cataloguing the hooks from all 50+ posts collected:
 
 2. **Format follows content type:** Research → carousel. Framework → text or carousel. Hot take → short text. Story → text. Don't force format.
 
-3. **Hook is not the first sentence of your content — it's the whole first paragraph before the fold.** Treat it as a headline, not a greeting.
+3. **Hook is not the first sentence of your content - it's the whole first paragraph before the fold.** Treat it as a headline, not a greeting.
 
 4. **The 3-format rotation:** Most high-performing B2B LinkedIn accounts rotate through: (a) a contrarian/provocative take, (b) a research/data-backed post, and (c) a personal story or vulnerability post. This variety prevents audience fatigue.
 
