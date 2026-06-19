@@ -28,7 +28,7 @@ Gerhardt is arguably the most credible independent voice in B2B SaaS marketing. 
 B2B marketing strategy, content-led growth, company culture as content, CMO leadership, community building
 
 **Key posts collected:**  
-- See `/linkedin-posts/dave-gerhardt/`
+- See [Dave Gerhardt](research/linkedin-posts/Dave%20Gerhardt.md)
 
 ---
 
@@ -51,7 +51,7 @@ Poyar is one of the most rigorous research-backed voices in SaaS. His annual Saa
 PLG benchmarks, SaaS pricing (especially the shift from per-seat to usage/outcome-based), GTM metrics, AI's impact on SaaS economics
 
 **Key posts collected:**  
-- See `/linkedin-posts/kyle-poyar/`
+- See [Kyle Poyar](research/linkedin-posts/Kyle%20Poyar.md)
 
 ---
 
@@ -74,7 +74,7 @@ Dunford is the single most authoritative voice on B2B positioning. *Obviously Aw
 Positioning, messaging, sales narrative, competitive differentiation, product marketing fundamentals
 
 **Key posts collected:**  
-- See `/linkedin-posts/april-dunford/`
+- See [April Dunford](research/linkedin-posts/April%20Dunford.md)
 
 ---
 
@@ -97,7 +97,7 @@ Welsh is the clearest case study of LinkedIn organic content as a SaaS-adjacent 
 Personal brand building, content systems, solopreneur operating model, LinkedIn algorithm optimization, audience monetization
 
 **Key posts collected:**  
-- See `/linkedin-posts/justin-welsh/`
+- See [Justin Welsh](research/linkedin-posts/Justin%20Welsh.md)
 
 ---
 
@@ -120,7 +120,7 @@ Walker has been one of the loudest - and most data-backed - critics of tradition
 Demand creation, dark social, pipeline attribution, the death of MQLs, self-reported attribution, sales-marketing alignment
 
 **Key posts collected:**  
-- See `/linkedin-posts/chris-walker/`
+- See [Chris Walker](research/linkedin-posts/Chris%20Walker.md)
 
 ---
 
@@ -143,8 +143,7 @@ Verna has operated inside more high-growth SaaS companies (Amplitude, MongoDB, S
 PLG vs. SLG, growth loops, segmentation, GTM motion design, AI-native SaaS, retention
 
 **Key posts collected:**  
-- See `/linkedin-posts/elena-verna/`
-
+- See [Elena Verna](research/linkedin-posts/Elena%20Verna.md)
 ---
 
 ### 7. Jason M. Lemkin
@@ -166,7 +165,7 @@ Lemkin is the most prolific and longest-running practitioner voice in B2B SaaS. 
 Scaling B2B SaaS, hiring, founder mistakes, AI's impact on SaaS, sales, churn, NRR
 
 **Key posts collected:**  
-- See `/linkedin-posts/jason-lemkin/`
+- See [Jason M. Lemkin](research/linkedin-posts/Jason%20M.%20Lemkin.md)
 
 ---
 
@@ -189,7 +188,7 @@ Laja has built three companies - CXL (B2B marketing education), Wynter (B2B mess
 B2B positioning, research-led content, differentiation, message testing, conversion optimization
 
 **Key posts collected:**  
-- See `/linkedin-posts/peep-laja/`
+- See [Peep Laja](research/linkedin-posts/Peep%20Laja.md)
 
 ---
 
@@ -212,7 +211,7 @@ Rachitsky is the gold standard for research-backed content in the product/growth
 Product growth, retention, hiring, AI product strategy, SaaS benchmarks, career in product
 
 **Key posts collected:**  
-- See `/linkedin-posts/lenny-rachitsky/`
+- See [Lenny Rachitsky](research/linkedin-posts/Lenny%20Rachitsky.md)
 
 ---
 
@@ -235,7 +234,7 @@ Shah has co-founded four SaaS products and is one of the most generous public sh
 Product-market fit, customer feedback loops, SaaS onboarding, retention, founder mindset, building in public
 
 **Key posts collected:**  
-- See `/linkedin-posts/hiten-shah/`
+- See [Hiten Shah](research/linkedin-posts/Hiten%20Shah.md)
 
 ---
 
