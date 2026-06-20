@@ -5,9 +5,17 @@
 
 ---
 
+## Research Scope
+
+This repository focuses on LinkedIn organic content strategy for B2B SaaS companies between 2024–2025.
+
+The objective is not to identify viral content tactics, but to understand repeatable content frameworks used by operators who have built real businesses, products, and audiences.
+
+---
+
 ## What This Is
 
-This repo captures original LinkedIn posts, frameworks, and content patterns from 10 practitioners who **actively do the thing they teach** — founders who built companies using content, operators with real revenue attached to their strategies, not consultants who've drifted into thought leadership.
+This repo captures original LinkedIn posts, frameworks, and content patterns from 10 practitioners who **actively do the thing they teach** - founders who built companies using content, operators with real revenue attached to their strategies, not consultants who've drifted into thought leadership.
 
 The research is designed to answer:
 - What content formats are actually working for B2B SaaS on LinkedIn in 2024–2025?
@@ -74,11 +82,11 @@ We selected for:
 ## Key Research Findings (From `/other/cross-expert-patterns.md`)
 
 ### What All 10 Share
-1. **Posts from experience, not theory** — every credibility anchor is operational, not academic
-2. **Take a clear position** — no hedging; "per-seat pricing is dying," not "there are various pricing models worth considering"
-3. **Close with a portable principle** — the last line is always the most quotable; it's what gets screenshotted
-4. **Never promote while teaching** — educational content and CTA content are strictly separated
-5. **Serve the reader's problem, not their own message** — starts from pain, not from product
+1. **Posts from experience, not theory** - every credibility anchor is operational, not academic
+2. **Take a clear position** - no hedging; "per-seat pricing is dying," not "there are various pricing models worth considering"
+3. **Close with a portable principle** - the last line is always the most quotable; it's what gets screenshotted
+4. **Never promote while teaching** - educational content and CTA content are strictly separated
+5. **Serve the reader's problem, not their own message** - starts from pain, not from product
 
 ### Top Content Hooks (From 50+ Post Analysis)
 | Hook Type | Share of Posts |
@@ -101,25 +109,14 @@ Carousels (PDFs) consistently show the highest engagement rate (~6.6%) among all
 - [x] LinkedIn posts collected (5 per expert, 50 posts total)
 - [x] Pattern analysis completed across all experts
 - [x] Algorithm research documented
-- [ ] Pattern extraction into playbook format *(next phase)*
-- [ ] Content calendar template based on expert patterns *(next phase)*
-- [ ] Engagement benchmarking by content type *(next phase)*
 
 ---
 
-## Commit History
-
-| Commit | Description |
-|--------|-------------|
-| `a865320` | init: README with project scope and expert shortlist |
-| `2efdac0` | research: sources.md with all 10 experts annotated |
-| `df3529c` | posts: Dave Gerhardt and Kyle Poyar collections |
-| `df596b3` | posts: April Dunford and Chris Walker collections |
-| `e2da476` | posts: Justin Welsh and Elena Verna collections |
-| `e5f81ef` | posts: Jason Lemkin and Peep Laja collections |
-| `3f85e5a` | posts: Lenny Rachitsky and Hiten Shah collections |
-| `8c55031` | research: LinkedIn algorithm data and cross-expert patterns |
+## Potential Future Work
+- Convert findings into a B2B SaaS LinkedIn playbook
+- Create content calendar templates based on observed patterns
+- Benchmark engagement by content type over time
 
 ---
 
-*Research collected June 2025. Posts represent public LinkedIn content from 2023–2025.*
+*Research collected June 2025. Posts represent public LinkedIn content from 2023-2025.*
