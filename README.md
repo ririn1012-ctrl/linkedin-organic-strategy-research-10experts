@@ -45,16 +45,9 @@ We selected for:
 /research
   sources.md                    ← All 10 experts: links, dates, annotations, selection rationale
   /linkedin-posts               ← Posts organized by author (5 posts each, with pattern analysis)
-    /dave-gerhardt/
-    /kyle-poyar/
-    /april-dunford/
-    /justin-welsh/
-    /chris-walker/
-    /elena-verna/
-    /jason-lemkin/
-    /peep-laja/
-    /lenny-rachitsky/
-    /hiten-shah/
+    10 expert post collections
+    (one markdown file per expert)
+
   /other                        ← Supporting materials
     linkedin-algorithm-2025.md  ← Algorithm mechanics, format performance data
     cross-expert-patterns.md    ← Pattern analysis across all 10 experts
